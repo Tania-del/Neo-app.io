@@ -1,0 +1,28 @@
+
+* {
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+.App {
+width: 50%;
+}
+
+h1, h3 {
+  color: #333;
+}
+
+ul {
+  padding: 0;
+  background-color: aliceblue;
+  border-radius: 10px;
+  /* text-align: center; */
+}
+
+
+
+.list-item {
+  text-align: start;
+}
+
